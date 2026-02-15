@@ -1,6 +1,0 @@
-cd C:\Users\shila\LinkVault\backend
-npm install
-npm run dev
-
-
-curl -X POST http://localhost:5000/api/upload ^ -H "Content-Type: application/json" ^ -d "{\"text\":\"Hello world\"}"
